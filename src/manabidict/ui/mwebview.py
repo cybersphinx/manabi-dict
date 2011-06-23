@@ -5,7 +5,7 @@ from PyQt4.Qt import Qt
 from PyQt4 import QtWebKit
 #from QtCore.QObject import connect, disconnect
 #from PyQt4.QObject import connect, disconnect
-from msmoothscroller import MSmoothScroller
+#from msmoothscroller import MSmoothScroller
 
 class MWebView(QtWebKit.QWebView):
     '''This uses a custom scrollbar which is more flexible.
